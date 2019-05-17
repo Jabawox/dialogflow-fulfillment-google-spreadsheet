@@ -19,9 +19,9 @@
     "node": "8.x"
   },
   "repository": {
-    "url": "https://github.com/bchhun/dialogflow-fulfillment-google-spreadsheet"
+    "url": "https://github.com/Jabawox/dialogflow-fulfillment-google-spreadsheet"
   },
-  "author": "Bernard Chhun <bernard.chhun@gmail.com>",
+  "author": "Jabawox <yutthaphon.n@gmail.com>",
   "license": "MIT",
   "keywords": [
     "node",
