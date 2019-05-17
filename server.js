@@ -21,7 +21,7 @@ app.post('/', function(request, response) {
   // these 3 variables could come from your intent's parameters !
   const tabName = 'Class Data';
   const startCell = 'A2';
-  const endCell = 'E';
+  const endCell = 'D';
   
   return googleSpreadsheet.getDataFromSpreadsheet(tabName, startCell, endCell)
     .then((results) => {
